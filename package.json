@@ -7,5 +7,18 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "Jamen Marz",
-  "license": "MIT"
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jamen/iana.git"
+  },
+  "keywords": [
+    "iana",
+    "whois",
+    "domains"
+  ],
+  "bugs": {
+    "url": "https://github.com/jamen/iana/issues"
+  },
+  "homepage": "https://github.com/jamen/iana#readme"
 }
